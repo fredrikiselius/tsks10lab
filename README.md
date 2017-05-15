@@ -1,0 +1,1 @@
+Script for the lab assigned in TSKS10
